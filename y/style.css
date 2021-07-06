@@ -1,0 +1,26 @@
+.body{
+    background-color: black;
+    border: 2px solid black;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.inp{
+    border:1px solid black ;
+    width: 194px;
+    background-color: lightgray;
+}
+
+.clearBtn{
+    border: 1px solid black;
+    width: 100%;
+    /* background-color: lightgrey; */
+    margin-top: 1px;
+    color: blue;
+}
+
+.btn{
+    background-color: lightgrey;
+    width:45px;
+    margin: 1px;
+}
